@@ -24,7 +24,7 @@ SUBDIR="."
 LIBDIR="lib/"
 
 # Additional commandline options
-CMD_ARGS=""
+CMD_ARGS="+set vid_ref gl"
 
 # Directory for Loki-Compat libraries
 LOKICOMPATDIR="Loki_Compat"
